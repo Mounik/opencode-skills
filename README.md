@@ -80,10 +80,10 @@ Vos instructions détaillées ici...
 
 ## Exemples
 
-```bash
+'''bash
 # Exemple de commande
 votre-commande-ici
-```
+'''
 EOF
 ```
 
@@ -123,6 +123,7 @@ metadata:
 ```language
 exemple de code
 ```
+
 ```
 
 ## 📚 Inspiration
